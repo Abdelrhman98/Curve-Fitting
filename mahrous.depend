@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1525484086 source:d:\mahrous\bisection-method.ccp.cpp
+	"BISECTION-METHOD.h"
+	"template.cpp"
+	"GUI.h"
+	<bits/stdc++.h>
+	<string>
+
+1525476973 d:\mahrous\bisection-method.h
+
+1525486031 source:d:\mahrous\curve-fitting.cpp
+	"Curve-Fitting.h"
+	<bits/stdc++.h>
+	"GUI.h"
+	"template.cpp"
+
+1525476292 d:\mahrous\curve-fitting.h
+
+1525480755 source:d:\mahrous\main.cpp
+	<bits/stdc++.h>
+	"BISECTION-METHOD.h"
+	"Curve-Fitting.h"
+	"Newtons_Method.h"
+	"GUI.h"
+	"template.cpp"
+
+1525477033 d:\mahrous\newtons_method.h
+
+1525485339 source:d:\mahrous\newtons_method.cpp
+	"Newtons_Method.h"
+	<bits/stdc++.h>
+	"GUI.h"
+	"template.cpp"
+	<windows.h>
+
+1525482875 source:d:\mahrous\gui.cpp
+	"GUI.h"
+	"BISECTION-METHOD.h"
+	"Curve-Fitting.h"
+	"Newtons_Method.h"
+	<bits/stdc++.h>
+	"template.cpp"
+	<unistd.h>
+	<windows.h>
+
+1525482880 d:\mahrous\gui.h
+	<bits/stdc++.h>
+	"template.cpp"
+
+1525481105 d:\mahrous\template.cpp
+	<bits/stdc++.h>
+
+1525481105 source:d:\mahrous\template.cpp
+	<bits/stdc++.h>
+
